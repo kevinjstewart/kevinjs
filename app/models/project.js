@@ -25,14 +25,14 @@ Project.reopenClass({
 			"tagline": "Game database without a database.",
 			"description": "RandomAccessFile based game database/library without a database written in Java. It's more of a proof of concept thing, definitely would have been a lot faster to make and more useful if I had used a DBMS, but I had to use writing to flat files in some way for that project.",
 			"url": "https://github.com/kevinjstewart/GameLibrary",
-			"img": "https://avatars0.githubusercontent.com/u/4387989?v=3&s=460"
+			"img": "http://www.bestmastersprograms.org/wp-content/uploads/2012/10/long-room-trinity-college.jpg"
 		},
 		{
 			"id": 3,
 			"title": "kevinstewart.me",
 			"tagline": "The site you're on right now. Built with Ember js.",
 			"description": "First ember app I've ever made. Uses ember-cli structure and ember design patterns. It's also responsive, resize the window! The part that really takes advantage of the Ember framework is actually this page. I can very easily just add another record to this fixture I used here and this entire page would update with the data. Truly sane web development.",
-			"url": "http://kevinstewart.me",
+			"url": "https://github.com/kevinjstewart/kevinjs",
 			"img": "http://media.mediatemple.netdna-cdn.com/wp-content/uploads/2013/11/emberjs-logo.png"
 		}
 
