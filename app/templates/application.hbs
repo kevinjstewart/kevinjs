@@ -1,3 +1,30 @@
-<h2 id='title'>Welcome to Ember.js</h2>
+<h2 class="header-title">kevin stewart <small>toronto web developer</small></h2>
+<div class="container">
+	<div class="row">
+		<div class="col-md-2">
+			<ul class="nav nav-pills">
+				<li role="presentation">
+					{{#link-to "index"}}
+						<span class="glyphicon glyphicon-home"></span>&nbsp;home
+					{{/link-to}}
+				</li>
+			    <li role="presentation">
+			    	{{#link-to 'about'}}
+			    		<span class="glyphicon glyphicon-user"></span>&nbsp;about kevin
+			    	{{/link-to}}</li>
+			    <li role="presentation">
+				    {{#link-to 'projects'}}
+				    	<span class="glyphicon glyphicon-ok-circle"></span>&nbsp;projects
+				    {{/link-to}}
+			    </li>
+			    <li role="presentation">
+			    	{{#link-to 'social'}}
+						<span class="glyphicon glyphicon-comment"></span>&nbsp;social
+			    	{{/link-to}}
+			    </li>
+			</ul>
+		</div>
+		<div class="col-md-8 application-outlet">{{outlet}}</div>
+	</div>
+</div>
 
-{{outlet}}
