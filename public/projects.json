@@ -1,0 +1,26 @@
+{
+
+	"projects": [
+		{
+			"id": 1,
+			"title": "Dragon Oath V: Pu Liu",
+			"description": "Terrible Java game I made in high school using Swing and AWT",
+			"url": "https://github.com/kevinjstewart/PuLiu",
+			"img": "https://raw.githubusercontent.com/kevinjstewart/PuLiu/master/dragon%20oath%20v.png"
+		},
+		{
+			"id": 2,
+			"title": "Game Library",
+			"description": "RandomAccessFile based game database/library without a database",
+			"url": "https://github.com/kevinjstewart/GameLibrary",
+			"img": "https://avatars0.githubusercontent.com/u/4387989?v=3&s=460"
+		}
+		{
+			"id": 3,
+			"title": "kevinstewart.me (you're on it!)",
+			"description": "First ember app I've ever made. Uses ember-cli structure and ember design patterns",
+			"url": "https://github.com/kevinjstewart/GameLibrary",
+			"img": "https://avatars0.githubusercontent.com/u/4387989?v=3&s=460"
+		}
+	]
+}

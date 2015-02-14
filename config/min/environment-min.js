@@ -1,0 +1,1 @@
+module.exports=function(e){var t={modulePrefix:"kevinjs",environment:e,baseURL:"/",locationType:"auto",EmberENV:{FEATURES:{}},APP:{}};return"development"===e&&(t.APP.LOG_ACTIVE_GENERATION=!0,t.APP.LOG_VIEW_LOOKUPS=!0),"test"===e&&(t.baseURL="/",t.locationType="auto",t.APP.LOG_ACTIVE_GENERATION=!1,t.APP.LOG_VIEW_LOOKUPS=!1,t.APP.rootElement="#ember-testing"),t};

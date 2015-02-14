@@ -1,0 +1,66 @@
+$primary-color: #333;
+$back-color: #AAAAAA;
+
+
+html, body {
+  /* margin: 20px; */
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px
+}
+
+.about-subtitle
+{
+	text-align: center;
+}
+
+article
+{
+	
+}
+
+.headshot
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
+
+.project-popup
+{
+	overflow: hidden;
+}
+
+.project-detail-title
+{
+	display: inline;
+	margin-top: auto;
+}
+
+li
+{
+	display: inline;
+	list-style-type: none;
+}
+
+.nav
+{
+
+}
+
+.application-outlet
+{
+	padding-top: 10px;
+}
+
+.header-title {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+@media screen and (max-width: 600px) {
+	html, body {
+		
+	
+	}
+}
